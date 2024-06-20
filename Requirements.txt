@@ -1,0 +1,6 @@
+llama-index==0.10.44
+llama-index-vector-stores-qdrant==0.2.9
+llama-index-postprocessor-cohere-rerank==0.1.7
+cohere==5.5.5
+qdrant-client==1.9.1
+datasets==2.20.0
